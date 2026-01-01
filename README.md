@@ -1,138 +1,141 @@
 <div align="center">
 
-# Xinor.sec
+# 🔐 xinor.sec
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/main/instagram-logo.png" width="120" height="120" alt="Instagram Logo">
+### Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
 
-<h3>Cybersecurity Specialist & System Administrator</h3>
+[![GitHub followers](https://img.shields.io/github/followers/xinor.sec?label=Followers&style=for-the-badge&color=blue)](https://github.com/xinor.sec)
+[![GitHub stars](https://img.shields.io/github/stars/xinor.sec?label=Stars&style=for-the-badge&color=yellow)](https://github.com/xinor.sec)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xinor.sec)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xinor.sec)
 
-<p>
-  <em>Specializing in Linux systems, security automation, and code development</em>
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Linux+Systems+Expert;Security+Automation+Specialist;Python+Developer;System+Administrator;Cybersecurity+Researcher" alt="Typing SVG" />
+---
 
 </div>
 
----
+## 👋 About Me
 
-## 💼 About Me
+```python
+class SecurityResearcher:
+    def __init__(self):
+        self.name = "xinor.sec"
+        self.role = "Cybersecurity Enthusiast"
+        self.location = "🌍 Global"
+        self.interests = [
+            "Penetration Testing",
+            "Vulnerability Research",
+            "Malware Analysis",
+            "Network Security",
+            "Cryptography"
+        ]
+    
+    def work(self):
+        while True:
+            self.learn()
+            self.research()
+            self.share_knowledge()
+```
 
-- 🔭 Currently focused on developing security automation tools and system administration scripts
-- 🌱 Deepening expertise in cybersecurity research and Linux kernel development
-- 👯 Open to collaborating on open-source security projects and system administration tools
-- 🤔 Seeking insights on advanced Linux system optimization and security hardening
-- 💬 Ask me about: Linux administration, security automation, or programming challenges
-- 📫 How to reach me: xinor.sec (Instagram)
-- ⚡ Fun fact: Spent years customizing Linux environments and exploring system internals
+## 🛠️ Tech Stack & Tools
 
----
-
-## 🛠️ Technologies & Languages
+### Security Tools
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
 ### Programming Languages
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-<div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xinorsec&langs_count=10">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinorsec&layout=donut&theme=dark" />
-  </a>
-</div>
+### Technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Web Development
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-</div>
-
-### Databases & Scripting
-<div>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-</div>
-
-### Terminal & Systems
-<div>
-  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</div>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xinorsec&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinorsec&layout=compact&theme=dark" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xinorsec&theme=dark" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎯 Areas of Expertise
-
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinorsec&theme=dark" alt="Profile Details" />
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Area | Expertise |
-|------|-----------|
-| **System Administration** | Extensive experience with Linux/Ubuntu environments |
-| **Security Research** | Vulnerability assessment and penetration testing |
-| **Automation** | Developing tools and scripts for various tasks |
-| **Reverse Engineering** | Analyzing software and systems |
-| **Network Security** | Configuring and securing network infrastructure |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xinor.sec&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=FF006E)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=xinor.sec&theme=radical&hide_border=true&background=0D1117&ring=FF006E&fire=FF006E&currStreakLabel=FF006E)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinor.sec&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=xinor.sec&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
----
+## 🔥 Featured Projects
 
-## 📈 Recent Activity
+### 🛡️ Security Tools
+- **[Project Name 1]** - Description of security tool
+- **[Project Name 2]** - Description of security tool
+- **[Project Name 3]** - Description of security tool
+
+### 📚 Learning Resources
+- **[Project Name 4]** - Educational content
+- **[Project Name 5]** - Security research
+
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xinorsec&theme=github-dark" />
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xinor.sec&theme=redical&hide_border=true&bg_color=0D1117&color=FF006E&line=FF006E&point=FFFFFF)
+
 </div>
+
+## 🎯 Current Focus
+
+- 🔍 Vulnerability Research
+- 🧪 Penetration Testing Methodologies
+- 📖 Security Best Practices
+- 🤝 Open Source Contributions
+
+## 📝 Latest Blog Posts / Updates
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🤝 Connect With Me
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xinorsec&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xinor.sec)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xinor.sec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xinor-sec)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xinor_sec)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@xinor.sec)
+
 </div>
 
----
+## 💡 Fun Facts
 
-## 🔗 Connect with me
+- 🎯 Always learning new security techniques
+- 🔐 Passionate about ethical hacking
+- 📚 Sharing knowledge with the community
+- 🌱 Growing in cybersecurity every day
 
-<div align="center">
-  <a href="https://instagram.com/xinor.sec">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
+## ⚠️ Disclaimer
+
+All tools and scripts are for **educational purposes only**. Use responsibly and only on systems you own or have explicit permission to test.
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xinorsec&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/xinorsec?label=Followers&style=social" alt="GitHub Followers" />
+
+### ⚡ "Security is not a product, but a process"
+
+**Made with ❤️ by xinor.sec**
+
+![Visitor Count](https://profile-counter.glitch.me/xinor.sec/count.svg)
+
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xinorsec/xinorsec/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xinorsec/xinorsec/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/xinorsec/xinorsec/output/github-contribution-grid-snake.svg">
-</picture>
